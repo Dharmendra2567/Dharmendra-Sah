@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dharmendra2567/Dharmendra-Sah.git/static/css/main.bc761603.css",
+    "main.js": "/Dharmendra2567/Dharmendra-Sah.git/static/js/main.47c2da66.js",
+    "static/js/453.acca0757.chunk.js": "/Dharmendra2567/Dharmendra-Sah.git/static/js/453.acca0757.chunk.js",
+    "index.html": "/Dharmendra2567/Dharmendra-Sah.git/index.html",
+    "main.bc761603.css.map": "/Dharmendra2567/Dharmendra-Sah.git/static/css/main.bc761603.css.map",
+    "main.47c2da66.js.map": "/Dharmendra2567/Dharmendra-Sah.git/static/js/main.47c2da66.js.map",
+    "453.acca0757.chunk.js.map": "/Dharmendra2567/Dharmendra-Sah.git/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc761603.css",
+    "static/js/main.47c2da66.js"
+  ]
+}
